@@ -1,8 +1,6 @@
-#git pull --rebase origin master
-echo add
-git add *.cpp
-echo commit
+
+git add *
 git commit -m "Up"
-echo push
+git pull --rebase origin master
 git push origin master
 sleep 10
