@@ -1,0 +1,569 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+A	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^inline int A(const int &l,const int &r ){$/;"	f
+D_DEBUG__	.\Luogu\P1312 Mayan游戏.cpp	2;"	d	file:
+INF	.\Luogu\P4872 Oier们的东方梦(dream).cpp	2;"	d	file:
+INT	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	2;"	d	file:
+Lgint	.\Luogu\P1005 矩阵取数游戏.cpp	/^    Lgint() {$/;"	f	struct:Lgint
+Lgint	.\Luogu\P1005 矩阵取数游戏.cpp	/^    Lgint(int x) {$/;"	f	struct:Lgint
+Lgint	.\Luogu\P1005 矩阵取数游戏.cpp	/^struct Lgint {$/;"	s	file:
+Q	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^struct Q{$/;"	s	file:
+SPFA	.\Luogu\P1250 种树.cpp	/^int SPFA(int k){$/;"	f
+SPFA	.\Luogu\P1993 小K的农场.cpp	/^bool SPFA(int k){$/;"	f
+SPFA	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^bool SPFA(int k){$/;"	f
+SPFA	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^bool SPFA(int k){$/;"	f
+a	.\Luogu\P1005 矩阵取数游戏.cpp	/^int a[90];$/;"	v
+a	.\Luogu\P1052 过河.cpp	/^int a[10010];$/;"	v
+a	.\Luogu\P1114 “非常男女”计划.cpp	/^int a[100010];$/;"	v
+a	.\Luogu\P1174 打砖块.cpp	/^int a[210][210];$/;"	v
+a	.\Luogu\P1346 电车.cpp	/^int n,a,b;$/;"	v
+a	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^}a[10010]; $/;"	v	typeref:struct:node
+a	.\Luogu\P1631 序列合并.cpp	/^int a[100010],b[100010];$/;"	v
+a	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int a[500010],c[500010];$/;"	v
+a	.\Luogu\P2085 最小函数值.cpp	/^int a[10010],b[10010],c[10010],s[10000001];$/;"	v
+a	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^set<node> a;$/;"	v
+a	.\Luogu\P2327 [SCOI2005]扫雷.cpp	/^int a[10010];$/;"	v
+a	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int a[500010],c[500010];$/;"	v
+a	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int a[500010],c[500010];$/;"	v
+a	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int a[maxn],b[maxn],t[maxn];$/;"	v
+a	.\Luogu\P3951 小凯的疑惑.cpp	/^long long a,b;$/;"	v
+a	.\Luogu\P4057 [Code+#1]晨跑.cpp	/^long long a,b,c;$/;"	v
+a	.\Luogu\P5017 摆渡车.cpp	/^int a[510];$/;"	v
+a	.\Luogu\P5412 [YNOI2019]排队.cpp	/^int a,b;$/;"	v
+add	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^void add(int i,int x){$/;"	f
+add	.\Luogu\P3372 【模板】线段树 1.cpp	/^	ll add;$/;"	m	struct:node	file:
+add	.\Luogu\P3372 【模板】线段树 1.cpp	/^void add(Int l,Int r,Int k,ll sum){$/;"	f
+add	.\Luogu\P3374 【模板】树状数组 1.cpp	/^void add(int i,int x){$/;"	f
+add	.\Luogu\P3374 【模板】树状数组 2.cpp	/^void add(int i,int x){$/;"	f
+add	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^void add(int x,int y) {$/;"	f
+add	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^inline void add(int x,int y,int v){$/;"	f
+addE	.\Luogu\P2661 信息传递.cpp	/^void addE(int x,int y){$/;"	f
+addEd	.\Luogu\P1250 种树.cpp	/^void addEd(int l,int r,int v){$/;"	f
+addEd	.\Luogu\P1726 上白泽慧音.cpp	/^void addEd(int x,int y){$/;"	f
+addEd	.\Luogu\P1993 小K的农场.cpp	/^void addEd(int l,int r,int v){$/;"	f
+addEd	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^void addEd(int l,int r,int v){$/;"	f
+addEd	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^void addEd(int l,int r,int v){$/;"	f
+addEd	.\Luogu\P3953 逛公园.cpp	/^void addEd(int x,int y,int v){$/;"	f
+addEdge	.\Luogu\P1346 电车.cpp	/^void addEdge(int x,int y,int v){$/;"	f
+addedge	.\Luogu\P3366 【模板】最小生成树.cpp	/^void addedge(int x,int y,int z){$/;"	f
+adds	.\Luogu\P3374 【模板】树状数组 2.cpp	/^void adds(int l,int r,int x){$/;"	f
+ans	.\Luogu\P1005 矩阵取数游戏.cpp	/^Lgint dp[90][90], ans;$/;"	v
+ans	.\Luogu\P1378 油滴扩展.cpp	/^double ans=30000000;$/;"	v
+ans	.\Luogu\P1631 序列合并.cpp	/^int ans[100010]; $/;"	v
+ans	.\Luogu\P1726 上白泽慧音.cpp	/^int cnt,ans=-1;$/;"	v
+ans	.\Luogu\P3366 【模板】最小生成树.cpp	/^int ans; $/;"	v
+ans	.\Luogu\P3953 逛公园.cpp	/^int ans;$/;"	v
+ans	.\Luogu\P5016 龙虎斗.cpp	/^long long ans=9999999999999;$/;"	v
+anss	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int anss[500010];$/;"	v
+ar	.\Luogu\P1378 油滴扩展.cpp	/^inline double ar(const double &pa){$/;"	f
+assign	.\Luogu\P1382 楼房.cpp	/^void assign(int l,int r,int v){$/;"	f
+assign	.\Luogu\P1558 色板游戏.cpp	/^void assign(int l,int r,int c){$/;"	f
+ax	.\Luogu\P1724 东风谷早苗.cpp	/^long long ax,ay,bx,by;$/;"	v
+ay	.\Luogu\P1724 东风谷早苗.cpp	/^long long ax,ay,bx,by;$/;"	v
+b	.\Luogu\P1052 过河.cpp	/^int b[10010];$/;"	v
+b	.\Luogu\P1174 打砖块.cpp	/^int b[210][210];$/;"	v
+b	.\Luogu\P1346 电车.cpp	/^int n,a,b;$/;"	v
+b	.\Luogu\P1631 序列合并.cpp	/^int a[100010],b[100010];$/;"	v
+b	.\Luogu\P2085 最小函数值.cpp	/^int a[10010],b[10010],c[10010],s[10000001];$/;"	v
+b	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int a[maxn],b[maxn],t[maxn];$/;"	v
+b	.\Luogu\P3951 小凯的疑惑.cpp	/^long long a,b;$/;"	v
+b	.\Luogu\P4057 [Code+#1]晨跑.cpp	/^long long a,b,c;$/;"	v
+b	.\Luogu\P5412 [YNOI2019]排队.cpp	/^int a,b;$/;"	v
+build	.\Luogu\P2574 XOR的艺术.cpp	/^void build(int l,int r,int k){$/;"	f
+build	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^void build(int l,int r,int k){$/;"	f
+build	.\Luogu\P3372 【模板】线段树 1.cpp	/^void build(Int l,Int r,Int k) {$/;"	f
+build	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int build(int l,int r){$/;"	f
+build	.\Luogu\P3870 [TJOI2009]开关.cpp	/^void build(int l,int r,int k){$/;"	f
+bx	.\Luogu\P1724 东风谷早苗.cpp	/^long long ax,ay,bx,by;$/;"	v
+by	.\Luogu\P1724 东风谷早苗.cpp	/^long long ax,ay,bx,by;$/;"	v
+bz	.\Luogu\P1005 矩阵取数游戏.cpp	/^Lgint bz[90];$/;"	v
+bzt	.\Luogu\P1005 矩阵取数游戏.cpp	/^void bzt() {$/;"	f
+c	.\Luogu\P1558 色板游戏.cpp	/^	mutable int c;$/;"	m	struct:node	file:
+c	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int a[500010],c[500010];$/;"	v
+c	.\Luogu\P2085 最小函数值.cpp	/^int a[10010],b[10010],c[10010],s[10000001];$/;"	v
+c	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int a[500010],c[500010];$/;"	v
+c	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int a[500010],c[500010];$/;"	v
+c	.\Luogu\P4057 [Code+#1]晨跑.cpp	/^long long a,b,c;$/;"	v
+change	.\Luogu\P2574 XOR的艺术.cpp	/^void change(int l,int r,int k){$/;"	f
+change	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^void change(int l,int r,int k){$/;"	f
+change	.\Luogu\P3870 [TJOI2009]开关.cpp	/^void change(int l,int r,int k){$/;"	f
+check	.\Luogu\P1312 Mayan游戏.cpp	/^bool check(int dep){$/;"	f
+check	.\Luogu\P5018 对称二叉树.cpp	/^void check(int cl,int cr){$/;"	f
+cmp	.\Luogu\P1382 楼房.cpp	/^inline bool cmp(const vsx& l,const vsx& r){$/;"	f
+cmp	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^bool cmp(node l,node r){$/;"	f
+cmp	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^bool cmp(Q a,Q b){$/;"	f
+cmp	.\Luogu\P5022 旅行.cpp	/^bool cmp(){$/;"	f
+cn	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^	char cn;$/;"	m	struct:node	file:
+cnt	.\Luogu\P1726 上白泽慧音.cpp	/^int cnt,ans=-1;$/;"	v
+count	.\Luogu\P1558 色板游戏.cpp	/^int count(int l,int r){$/;"	f
+count	.\Luogu\P5018 对称二叉树.cpp	/^int count(int k){$/;"	f
+cpi	.\Luogu\P1726 上白泽慧音.cpp	/^int cpi[5010];$/;"	v
+d	.\Luogu\P1312 Mayan游戏.cpp	/^int d[10][10][8];$/;"	v
+d	.\Luogu\P3958 奶酪.cpp	/^bool d[1010];$/;"	v
+dep	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int dep[500010];$/;"	v
+dfn	.\Luogu\P1726 上白泽慧音.cpp	/^int dfn[5010],low[5010],sum[5010];$/;"	v
+dfs	.\Luogu\P1312 Mayan游戏.cpp	/^void dfs(int dep){$/;"	f
+dfs	.\Luogu\P1378 油滴扩展.cpp	/^void dfs(int dep,double area) {$/;"	f
+dfs	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^void dfs(int x,int f) {$/;"	f
+dfs	.\Luogu\P3953 逛公园.cpp	/^void dfs(int z,int sum){$/;"	f
+dfs	.\Luogu\P3958 奶酪.cpp	/^void dfs(int k){$/;"	f
+dfs	.\Luogu\P5022 旅行.cpp	/^void dfs(int k,int fa){$/;"	f
+dfsr	.\Luogu\P5022 旅行.cpp	/^void dfsr(int k,int fa){$/;"	f
+dis	.\Luogu\P1250 种树.cpp	/^int dis[100010];$/;"	v
+dis	.\Luogu\P1346 电车.cpp	/^int dis[110];$/;"	v
+dis	.\Luogu\P1378 油滴扩展.cpp	/^double dis[10][10];$/;"	v
+dis	.\Luogu\P1993 小K的农场.cpp	/^int dis[100010];$/;"	v
+dis	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int dis[10100];$/;"	v
+dis	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int dis[101000];$/;"	v
+dis	.\Luogu\P3366 【模板】最小生成树.cpp	/^int dis[5010];$/;"	v
+dis	.\Luogu\P3953 逛公园.cpp	/^void dis(){$/;"	f
+dis	.\Luogu\P3958 奶酪.cpp	/^inline double dis(const int &l,const int &r){$/;"	f
+dis	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int dis[100010];$/;"	v
+dis	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int dis[1010][1010][3];$/;"	v
+disa	.\Luogu\P1378 油滴扩展.cpp	/^inline double disa(const double& x1,const double& y1,const double& x2,const double& y2) {$/;"	f
+disp	.\Luogu\P3953 逛公园.cpp	/^int disp[100010];$/;"	v
+down	.\Luogu\P1312 Mayan游戏.cpp	/^void down(int dep,int x){$/;"	f
+down	.\Luogu\P2574 XOR的艺术.cpp	/^void down(int k){$/;"	f
+down	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^void down(int k){$/;"	f
+down	.\Luogu\P3372 【模板】线段树 1.cpp	/^void down(Int k){$/;"	f
+down	.\Luogu\P3870 [TJOI2009]开关.cpp	/^void down(int k){$/;"	f
+dp	.\Luogu\P1005 矩阵取数游戏.cpp	/^Lgint dp[90][90], ans;$/;"	v
+dp	.\Luogu\P1052 过河.cpp	/^int dp[500010];$/;"	v
+dp	.\Luogu\P1174 打砖块.cpp	/^int dp[210][210][210];$/;"	v
+dp	.\Luogu\P2327 [SCOI2005]扫雷.cpp	/^int dp[10010][2][2];$/;"	v
+dp	.\Luogu\P5017 摆渡车.cpp	/^int dp[4000010];$/;"	v
+dx	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int dx[4]={0,1,0,-1};$/;"	v
+dy	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int dy[4]={1,0,-1,0};$/;"	v
+ed	.\Luogu\P2661 信息传递.cpp	/^node ed[200010];$/;"	v
+ed	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^struct ed{$/;"	s	file:
+ed	.\Luogu\P5022 旅行.cpp	/^node ed[5010];$/;"	v
+edge	.\Luogu\P1346 电车.cpp	/^}edge[100100];$/;"	v	typeref:struct:node
+edge	.\Luogu\P1726 上白泽慧音.cpp	/^}edge[100010];$/;"	v	typeref:struct:node
+edge	.\Luogu\P2661 信息传递.cpp	/^	int edge;$/;"	m	struct:node	file:
+edge	.\Luogu\P3366 【模板】最小生成树.cpp	/^node edge[400010];$/;"	v
+edge	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^node edge[1000010];$/;"	v
+edge	.\Luogu\P3953 逛公园.cpp	/^node edge[200010];$/;"	v
+edge	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^}edge[200010];$/;"	v	typeref:struct:ed
+erase	.\Luogu\P1312 Mayan游戏.cpp	/^bool erase(int dep){$/;"	f
+ex	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int ex,ey,sx,sy;$/;"	v
+ey	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int ex,ey,sx,sy;$/;"	v
+f	.\Luogu\P1114 “非常男女”计划.cpp	/^int f[100010];$/;"	v
+f	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int f[500010];$/;"	v
+f	.\Luogu\P3958 奶酪.cpp	/^bool f;$/;"	v
+f	.\Luogu\P5022 旅行.cpp	/^bool f[5010];$/;"	v
+f	.\Luogu\P5412 [YNOI2019]排队.cpp	/^bool f[10010];$/;"	v
+fd	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int fd[10010];$/;"	v
+fin	.\Luogu\P1726 上白泽慧音.cpp	/^bool fin[5010];$/;"	v
+find	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int find(int k){$/;"	f
+flag	.\Luogu\P5018 对称二叉树.cpp	/^bool flag;$/;"	v
+fs	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int fs[500010][23];$/;"	v
+gcd	.\Luogu\P4057 [Code+#1]晨跑.cpp	/^long long gcd(long long x,long long y){$/;"	f
+get	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int get(int i){$/;"	f
+get	.\Luogu\P2574 XOR的艺术.cpp	/^int get(int l,int r,int k){$/;"	f
+get	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^int get(int l,int r,int k){$/;"	f
+get	.\Luogu\P3372 【模板】线段树 1.cpp	/^ll get(Int l,Int r,Int k) {$/;"	f
+get	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int get(int i){$/;"	f
+get	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int get(int i){$/;"	f
+get	.\Luogu\P3870 [TJOI2009]开关.cpp	/^int get(int l,int r,int k){$/;"	f
+getp	.\Luogu\P1378 油滴扩展.cpp	/^double getp(int id) {$/;"	f
+h	.\Luogu\P1250 种树.cpp	/^int n,h;$/;"	v
+h	.\Luogu\P3958 奶酪.cpp	/^int t,n,h,r;$/;"	v
+head	.\Luogu\P1250 种树.cpp	/^int head[100010],tot;$/;"	v
+head	.\Luogu\P1346 电车.cpp	/^int head[110];$/;"	v
+head	.\Luogu\P1726 上白泽慧音.cpp	/^int head[5010],tot;$/;"	v
+head	.\Luogu\P1993 小K的农场.cpp	/^int head[100010],tot;$/;"	v
+head	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int head[100010],tot;$/;"	v
+head	.\Luogu\P2661 信息传递.cpp	/^int head[200010];$/;"	v
+head	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int head[100010],tot;$/;"	v
+head	.\Luogu\P3366 【模板】最小生成树.cpp	/^int head[5010];$/;"	v
+head	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int head[500010],tot;$/;"	v
+head	.\Luogu\P3953 逛公园.cpp	/^int head[100010],tot;$/;"	v
+head	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int head[100010],tot;$/;"	v
+i	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^	int i,sum;$/;"	m	struct:node	file:
+id	.\Luogu\P3953 逛公园.cpp	/^	int id;$/;"	m	struct:koishi	file:
+in	.\Luogu\P1558 色板游戏.cpp	/^bool in[31];$/;"	v
+input	.\Luogu\P1312 Mayan游戏.cpp	/^void input(){$/;"	f
+ite	.\Luogu\P1382 楼房.cpp	2;"	d	file:
+ite	.\Luogu\P1558 色板游戏.cpp	2;"	d	file:
+j	.\Luogu\P5022 旅行.cpp	/^int j;$/;"	v
+k	.\Luogu\P1174 打砖块.cpp	/^int n,m,k;$/;"	v
+k	.\Luogu\P3953 逛公园.cpp	/^int n,m,k,p,t;$/;"	v
+koishi	.\Luogu\P3953 逛公园.cpp	/^	koishi(int ci,int cv):id(ci),v(cv){$/;"	f	struct:koishi
+koishi	.\Luogu\P3953 逛公园.cpp	/^struct koishi{$/;"	s	file:
+l	.\Luogu\P1052 过河.cpp	/^int l,s,t,m;$/;"	v
+l	.\Luogu\P1382 楼房.cpp	/^	int l,r,v;$/;"	m	struct:vsx	file:
+l	.\Luogu\P1382 楼房.cpp	/^	int l;int r;$/;"	m	struct:node	file:
+l	.\Luogu\P1558 色板游戏.cpp	/^	int l;int r;$/;"	m	struct:node	file:
+l	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^	int l,r,p;$/;"	m	struct:Q	file:
+l	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^	int l,r;$/;"	m	struct:node	file:
+l	.\Luogu\P2574 XOR的艺术.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+l	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+l	.\Luogu\P3372 【模板】线段树 1.cpp	/^	int l,r;$/;"	m	struct:node	file:
+l	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^	int l,r,sum;$/;"	m	struct:node	file:
+l	.\Luogu\P3870 [TJOI2009]开关.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+l	.\Luogu\P5016 龙虎斗.cpp	/^long long l,r;$/;"	v
+l	.\Luogu\P5018 对称二叉树.cpp	/^int l[1000010],r[1000010];$/;"	v
+lazy	.\Luogu\P2574 XOR的艺术.cpp	/^	int lazy;$/;"	m	struct:node	file:
+lazy	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^	int lazy;$/;"	m	struct:node	file:
+lazy	.\Luogu\P3870 [TJOI2009]开关.cpp	/^	int lazy;$/;"	m	struct:node	file:
+lca	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int lca(int x,int y) {$/;"	f
+lg	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int lg[500010];$/;"	v
+low	.\Luogu\P1726 上白泽慧音.cpp	/^int dfn[5010],low[5010],sum[5010];$/;"	v
+lowbit	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^inline int lowbit(const int&i){$/;"	f
+lowbit	.\Luogu\P3374 【模板】树状数组 1.cpp	/^inline int lowbit(const int&i){$/;"	f
+lowbit	.\Luogu\P3374 【模板】树状数组 2.cpp	/^inline int lowbit(const int&i){$/;"	f
+ls	.\Luogu\P2574 XOR的艺术.cpp	/^inline int ls(const int& k){$/;"	f
+ls	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^inline int ls(const int& k){$/;"	f
+ls	.\Luogu\P3372 【模板】线段树 1.cpp	/^inline int ls(Int k) {$/;"	f
+ls	.\Luogu\P3870 [TJOI2009]开关.cpp	/^inline int ls(const int& k){$/;"	f
+m	.\Luogu\P1005 矩阵取数游戏.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P1052 过河.cpp	/^int l,s,t,m;$/;"	v
+m	.\Luogu\P1174 打砖块.cpp	/^int n,m,k;$/;"	v
+m	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int n,m,sum;$/;"	v
+m	.\Luogu\P1726 上白泽慧音.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P1993 小K的农场.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P2085 最小函数值.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int n,m,w;$/;"	v
+m	.\Luogu\P2574 XOR的艺术.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P2661 信息传递.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int n,m,w;$/;"	v
+m	.\Luogu\P3366 【模板】最小生成树.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3372 【模板】线段树 1.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int n,m,s;$/;"	v
+m	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int n,m,q,tot;$/;"	v
+m	.\Luogu\P3870 [TJOI2009]开关.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P3953 逛公园.cpp	/^int n,m,k,p,t;$/;"	v
+m	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int n,m,s;$/;"	v
+m	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int m,n;$/;"	v
+m	.\Luogu\P5016 龙虎斗.cpp	/^int n,m,p1,p2;$/;"	v
+m	.\Luogu\P5017 摆渡车.cpp	/^int n,m;$/;"	v
+m	.\Luogu\P5022 旅行.cpp	/^int n,m;$/;"	v
+main	.\Luogu\P1005 矩阵取数游戏.cpp	/^int main() {$/;"	f
+main	.\Luogu\P1052 过河.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1114 “非常男女”计划.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1125 笨小猴.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1174 打砖块.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1250 种树.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1312 Mayan游戏.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1346 电车.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1378 油滴扩展.cpp	/^int main() {$/;"	f
+main	.\Luogu\P1382 楼房.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1558 色板游戏.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1631 序列合并.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1724 东风谷早苗.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1726 上白泽慧音.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int main(){$/;"	f
+main	.\Luogu\P1993 小K的农场.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2085 最小函数值.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2327 [SCOI2005]扫雷.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2574 XOR的艺术.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2661 信息传递.cpp	/^int main(){$/;"	f
+main	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3366 【模板】最小生成树.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3372 【模板】线段树 1.cpp	/^int main() {$/;"	f
+main	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int main() {$/;"	f
+main	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3870 [TJOI2009]开关.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3951 小凯的疑惑.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3953 逛公园.cpp	/^int main(){$/;"	f
+main	.\Luogu\P3958 奶酪.cpp	/^int main(){$/;"	f
+main	.\Luogu\P4057 [Code+#1]晨跑.cpp	/^int main(){$/;"	f
+main	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int main(){$/;"	f
+main	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int main(){$/;"	f
+main	.\Luogu\P5016 龙虎斗.cpp	/^int main(){$/;"	f
+main	.\Luogu\P5017 摆渡车.cpp	/^int main(){$/;"	f
+main	.\Luogu\P5018 对称二叉树.cpp	/^int main(){$/;"	f
+main	.\Luogu\P5022 旅行.cpp	/^int main(){$/;"	f
+main	.\Luogu\P5412 [YNOI2019]排队.cpp	/^int main(){$/;"	f
+maxHig	.\Luogu\P1312 Mayan游戏.cpp	/^const int maxHig=7;$/;"	v
+maxLen	.\Luogu\P1312 Mayan游戏.cpp	/^const int maxLen=5;$/;"	v
+maxn	.\Luogu\P1114 “非常男女”计划.cpp	/^int maxn=0;$/;"	v
+maxn	.\Luogu\P1125 笨小猴.cpp	/^int maxn=-1;$/;"	v
+maxn	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^const int maxn=200010;$/;"	v
+mes	.\Luogu\P2661 信息传递.cpp	/^set<int> mes[200010][2];$/;"	v
+minn	.\Luogu\P1125 笨小猴.cpp	/^int minn=100000;$/;"	v
+move	.\Luogu\P1312 Mayan游戏.cpp	/^void move(int dep,int x,int y,int z){$/;"	f
+mul	.\Luogu\P3372 【模板】线段树 1.cpp	/^	ll mul;$/;"	m	struct:node	file:
+mul	.\Luogu\P3372 【模板】线段树 1.cpp	/^void mul(Int l,Int r,Int k,ll sum){$/;"	f
+mx	.\Luogu\P1378 油滴扩展.cpp	/^double mx[10],my[10];$/;"	v
+my	.\Luogu\P1378 油滴扩展.cpp	/^double mx[10],my[10];$/;"	v
+n	.\Luogu\P1005 矩阵取数游戏.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P1114 “非常男女”计划.cpp	/^int n;$/;"	v
+n	.\Luogu\P1174 打砖块.cpp	/^int n,m,k;$/;"	v
+n	.\Luogu\P1250 种树.cpp	/^int n,h;$/;"	v
+n	.\Luogu\P1312 Mayan游戏.cpp	/^int n;$/;"	v
+n	.\Luogu\P1346 电车.cpp	/^int n,a,b;$/;"	v
+n	.\Luogu\P1378 油滴扩展.cpp	/^int n;$/;"	v
+n	.\Luogu\P1382 楼房.cpp	/^int n;$/;"	v
+n	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int n,m,sum;$/;"	v
+n	.\Luogu\P1558 色板游戏.cpp	/^int n,t,o;$/;"	v
+n	.\Luogu\P1631 序列合并.cpp	/^int n;$/;"	v
+n	.\Luogu\P1726 上白泽慧音.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P1993 小K的农场.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P2085 最小函数值.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^int n;$/;"	v
+n	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int n,m,w;$/;"	v
+n	.\Luogu\P2327 [SCOI2005]扫雷.cpp	/^int n;$/;"	v
+n	.\Luogu\P2574 XOR的艺术.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P2661 信息传递.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int n,m,w;$/;"	v
+n	.\Luogu\P3366 【模板】最小生成树.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3372 【模板】线段树 1.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3374 【模板】树状数组 1.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3374 【模板】树状数组 2.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int n,m,s;$/;"	v
+n	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int n,m,q,tot;$/;"	v
+n	.\Luogu\P3870 [TJOI2009]开关.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P3953 逛公园.cpp	/^int n,m,k,p,t;$/;"	v
+n	.\Luogu\P3958 奶酪.cpp	/^int t,n,h,r;$/;"	v
+n	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int n,m,s;$/;"	v
+n	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int m,n;$/;"	v
+n	.\Luogu\P5016 龙虎斗.cpp	/^int n,m,p1,p2;$/;"	v
+n	.\Luogu\P5017 摆渡车.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P5018 对称二叉树.cpp	/^int n;$/;"	v
+n	.\Luogu\P5022 旅行.cpp	/^int n,m;$/;"	v
+n	.\Luogu\P5412 [YNOI2019]排队.cpp	/^int t,n; $/;"	v
+next	.\Luogu\P1346 电车.cpp	/^	int next;$/;"	m	struct:node	file:
+next	.\Luogu\P1726 上白泽慧音.cpp	/^	int to,next;$/;"	m	struct:node	file:
+next	.\Luogu\P2661 信息传递.cpp	/^	int next;$/;"	m	struct:node	file:
+next	.\Luogu\P3366 【模板】最小生成树.cpp	/^	int to,val,next;$/;"	m	struct:node	file:
+next	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^	int to,next;$/;"	m	struct:node	file:
+next	.\Luogu\P3953 逛公园.cpp	/^	int to,next,v;$/;"	m	struct:node	file:
+next	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^	int to,next,val;$/;"	m	struct:ed	file:
+node	.\Luogu\P1346 电车.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P1382 楼房.cpp	/^	node(const int &lr,const int &rr,const int &cr):l(lr),r(rr),v(cr){$/;"	f	struct:node
+node	.\Luogu\P1382 楼房.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P1558 色板游戏.cpp	/^	node(const int &lr,const int &rr,const int &cr):l(lr),r(rr),c(cr){$/;"	f	struct:node
+node	.\Luogu\P1558 色板游戏.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P1726 上白泽慧音.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P2574 XOR的艺术.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P2661 信息传递.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P3366 【模板】最小生成树.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P3372 【模板】线段树 1.cpp	/^struct node {$/;"	s	file:
+node	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^struct node {$/;"	s	file:
+node	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P3870 [TJOI2009]开关.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P3953 逛公园.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^struct node{$/;"	s	file:
+node	.\Luogu\P5022 旅行.cpp	/^struct node{$/;"	s	file:
+ns	.\Luogu\P1346 电车.cpp	/^	ns(int cx,int cy):x(cx),y(cy){$/;"	f	struct:ns
+ns	.\Luogu\P1346 电车.cpp	/^struct ns{$/;"	s	file:
+num	.\Luogu\P2574 XOR的艺术.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+num	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+num	.\Luogu\P3870 [TJOI2009]开关.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+nxt	.\Luogu\P1250 种树.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+nxt	.\Luogu\P1993 小K的农场.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+nxt	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+nxt	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int val[200010],to[200010],nxt[200010];$/;"	v
+o	.\Luogu\P1558 色板游戏.cpp	/^int n,t,o;$/;"	v
+odt	.\Luogu\P1382 楼房.cpp	/^set<node> odt;$/;"	v
+odt	.\Luogu\P1558 色板游戏.cpp	/^set<node>odt;$/;"	v
+operator *	.\Luogu\P1005 矩阵取数游戏.cpp	/^Lgint operator*(Lgint lq,const int &rq) {$/;"	f
+operator +	.\Luogu\P1005 矩阵取数游戏.cpp	/^Lgint operator+(Lgint lq,const Lgint &rq) {$/;"	f
+operator <	.\Luogu\P1005 矩阵取数游戏.cpp	/^bool operator<(const Lgint& lq,const Lgint& rq) {$/;"	f
+operator <	.\Luogu\P1382 楼房.cpp	/^inline bool operator<(const node&p, const node& o){$/;"	f
+operator <	.\Luogu\P1558 色板游戏.cpp	/^inline bool operator<(const node&p, const node& o){$/;"	f
+operator <	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^inline bool operator <(const node& l,const node& r){$/;"	f
+operator >	.\Luogu\P1346 电车.cpp	/^bool operator>(const ns& l,const ns& r){$/;"	f
+operator >	.\Luogu\P3953 逛公园.cpp	/^inline bool operator>(const koishi &l,const koishi &r){$/;"	f
+operator >	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^bool operator>(node l,node r){$/;"	f
+operator >	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^bool operator>(const node&l,const node&r){$/;"	f
+p	.\Luogu\P1174 打砖块.cpp	/^int p[210][210];$/;"	v
+p	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^	int l,r,p;$/;"	m	struct:Q	file:
+p	.\Luogu\P3372 【模板】线段树 1.cpp	/^ll p;$/;"	v
+p	.\Luogu\P3953 逛公园.cpp	/^int n,m,k,p,t;$/;"	v
+p	.\Luogu\P5022 旅行.cpp	/^int *s,*p;$/;"	v
+p1	.\Luogu\P1312 Mayan游戏.cpp	/^int p1[10][10],p2[10][10];$/;"	v
+p1	.\Luogu\P5016 龙虎斗.cpp	/^int n,m,p1,p2;$/;"	v
+p2	.\Luogu\P1312 Mayan游戏.cpp	/^int p1[10][10],p2[10][10];$/;"	v
+p2	.\Luogu\P5016 龙虎斗.cpp	/^int n,m,p1,p2;$/;"	v
+pan	.\Luogu\P1378 油滴扩展.cpp	/^double pan[10];$/;"	v
+pi	.\Luogu\P1378 油滴扩展.cpp	2;"	d	file:
+prim	.\Luogu\P3366 【模板】最小生成树.cpp	/^voi prim(){$/;"	f
+print	.\Luogu\P1005 矩阵取数游戏.cpp	/^    void print() {$/;"	f	struct:Lgint
+print	.\Luogu\P1312 Mayan游戏.cpp	/^void print(){$/;"	f
+px	.\Luogu\P1378 油滴扩展.cpp	/^double px,py,qx,qy;$/;"	v
+py	.\Luogu\P1378 油滴扩展.cpp	/^double px,py,qx,qy;$/;"	v
+q	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^}q[500010];$/;"	v	typeref:struct:Q
+q	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int n,m,q,tot;$/;"	v
+que	.\Luogu\P1250 种树.cpp	/^queue<int> que;$/;"	v
+que	.\Luogu\P1346 电车.cpp	/^priority_queue<ns,deque<ns>,greater<ns> > que;$/;"	v
+que	.\Luogu\P1382 楼房.cpp	/^vsx que[100010];$/;"	v
+que	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^priority_queue<node,deque<node>,greater<node> >que;$/;"	v
+que	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^priority_queue<node,deque<node>,greater<node> >que;$/;"	v
+que1	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^priority_queue<int> que1;$/;"	v
+que2	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^priority_queue<int,deque<int>,greater<int> > que2;$/;"	v
+query	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int query(int u,int v,int l,int r,int k){$/;"	f
+qx	.\Luogu\P1378 油滴扩展.cpp	/^double px,py,qx,qy;$/;"	v
+qy	.\Luogu\P1378 油滴扩展.cpp	/^double px,py,qx,qy;$/;"	v
+r	.\Luogu\P1382 楼房.cpp	/^	int l,r,v;$/;"	m	struct:vsx	file:
+r	.\Luogu\P1382 楼房.cpp	/^	int l;int r;$/;"	m	struct:node	file:
+r	.\Luogu\P1558 色板游戏.cpp	/^	int l;int r;$/;"	m	struct:node	file:
+r	.\Luogu\P1972 [SDOI2009]HH的项链.cpp	/^	int l,r,p;$/;"	m	struct:Q	file:
+r	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^	int l,r;$/;"	m	struct:node	file:
+r	.\Luogu\P2574 XOR的艺术.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+r	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+r	.\Luogu\P3372 【模板】线段树 1.cpp	/^	int l,r;$/;"	m	struct:node	file:
+r	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^	int l,r,sum;$/;"	m	struct:node	file:
+r	.\Luogu\P3870 [TJOI2009]开关.cpp	/^	int l;int r;int num;$/;"	m	struct:node	file:
+r	.\Luogu\P3953 逛公园.cpp	/^bool r;$/;"	v
+r	.\Luogu\P3958 奶酪.cpp	/^int t,n,h,r;$/;"	v
+r	.\Luogu\P5016 龙虎斗.cpp	/^long long l,r;$/;"	v
+r	.\Luogu\P5018 对称二叉树.cpp	/^int l[1000010],r[1000010];$/;"	v
+rd	.\Luogu\P2574 XOR的艺术.cpp	/^void rd(){$/;"	f
+rd	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^void rd(){$/;"	f
+rd	.\Luogu\P3870 [TJOI2009]开关.cpp	/^void rd(){$/;"	f
+read	.\Luogu\P1114 “非常男女”计划.cpp	/^void read(int &a){$/;"	f
+read	.\Luogu\P1312 Mayan游戏.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P1382 楼房.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P1558 色板游戏.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P2574 XOR的艺术.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P3870 [TJOI2009]开关.cpp	/^void read(int &x){$/;"	f
+read	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^void read(int &a){$/;"	f
+readc	.\Luogu\P2161 [SHOI2009]会场预约.cpp	/^void readc(char &x){$/;"	f
+readchar	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^void readchar(char &c){$/;"	f
+rs	.\Luogu\P2574 XOR的艺术.cpp	/^inline int rs(const int& k){$/;"	f
+rs	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^inline int rs(const int& k){$/;"	f
+rs	.\Luogu\P3372 【模板】线段树 1.cpp	/^inline int rs(Int k) {$/;"	f
+rs	.\Luogu\P3870 [TJOI2009]开关.cpp	/^inline int rs(const int& k){$/;"	f
+s	.\Luogu\P1005 矩阵取数游戏.cpp	/^    short s[510];$/;"	m	struct:Lgint	file:
+s	.\Luogu\P1052 过河.cpp	/^int l,s,t,m;$/;"	v
+s	.\Luogu\P1174 打砖块.cpp	/^char s[210][210];$/;"	v
+s	.\Luogu\P2085 最小函数值.cpp	/^int a[10010],b[10010],c[10010],s[10000001];$/;"	v
+s	.\Luogu\P2574 XOR的艺术.cpp	/^char s[200010];$/;"	v
+s	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^char s[400010];$/;"	v
+s	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int n,m,s;$/;"	v
+s	.\Luogu\P3870 [TJOI2009]开关.cpp	/^char s[400010];$/;"	v
+s	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int n,m,s;$/;"	v
+s	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^char s[1010][1010][3];$/;"	v
+s	.\Luogu\P5022 旅行.cpp	/^int *s,*p;$/;"	v
+s1	.\Luogu\P5016 龙虎斗.cpp	/^long long s1,s2;$/;"	v
+s2	.\Luogu\P5016 龙虎斗.cpp	/^long long s1,s2;$/;"	v
+size	.\Luogu\P1005 矩阵取数游戏.cpp	/^    int size;$/;"	m	struct:Lgint	file:
+split	.\Luogu\P1382 楼房.cpp	/^ite split(int k){$/;"	f
+split	.\Luogu\P1558 色板游戏.cpp	/^set<node>::iterator split(int k){$/;"	f
+sta	.\Luogu\P1726 上白泽慧音.cpp	/^stack<int> sta;$/;"	v
+step	.\Luogu\P1312 Mayan游戏.cpp	/^struct step{$/;"	s	file:
+sum	.\Luogu\P1125 笨小猴.cpp	/^int sum[30];$/;"	v
+sum	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^int n,m,sum;$/;"	v
+sum	.\Luogu\P1726 上白泽慧音.cpp	/^int dfn[5010],low[5010],sum[5010];$/;"	v
+sum	.\Luogu\P3372 【模板】线段树 1.cpp	/^	ll sum;$/;"	m	struct:node	file:
+sum	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^	int l,r,sum;$/;"	m	struct:node	file:
+sum	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^	int i,sum;$/;"	m	struct:node	file:
+sum	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^	int sum;$/;"	m	struct:node	file:
+sum	.\Luogu\P5016 龙虎斗.cpp	/^long long sum[100010];$/;"	v
+sum	.\Luogu\P5018 对称二叉树.cpp	/^int sum[1000010];$/;"	v
+sx	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int ex,ey,sx,sy;$/;"	v
+sy	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int ex,ey,sx,sy;$/;"	v
+t	.\Luogu\P1052 过河.cpp	/^int l,s,t,m;$/;"	v
+t	.\Luogu\P1558 色板游戏.cpp	/^int n,t,o;$/;"	v
+t	.\Luogu\P1724 东风谷早苗.cpp	/^long long t;$/;"	v
+t	.\Luogu\P1726 上白泽慧音.cpp	/^int t;$/;"	v
+t	.\Luogu\P2574 XOR的艺术.cpp	/^}t[800010];$/;"	v	typeref:struct:node
+t	.\Luogu\P2846 [USACO08NOV]光开关Light Switching.cpp	/^}t[800010];$/;"	v	typeref:struct:node
+t	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int a[maxn],b[maxn],t[maxn];$/;"	v
+t	.\Luogu\P3870 [TJOI2009]开关.cpp	/^}t[800010];$/;"	v	typeref:struct:node
+t	.\Luogu\P3953 逛公园.cpp	/^int n,m,k,p,t;$/;"	v
+t	.\Luogu\P3958 奶酪.cpp	/^int t,n,h,r;$/;"	v
+t	.\Luogu\P5017 摆渡车.cpp	/^int t[510];$/;"	v
+t	.\Luogu\P5412 [YNOI2019]排队.cpp	/^int t,n; $/;"	v
+tarjan	.\Luogu\P1726 上白泽慧音.cpp	/^void tarjan(int k){$/;"	f
+to	.\Luogu\P1250 种树.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+to	.\Luogu\P1346 电车.cpp	/^	int to;$/;"	m	struct:node	file:
+to	.\Luogu\P1726 上白泽慧音.cpp	/^	int to,next;$/;"	m	struct:node	file:
+to	.\Luogu\P1993 小K的农场.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+to	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+to	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int val[200010],to[200010],nxt[200010];$/;"	v
+to	.\Luogu\P3366 【模板】最小生成树.cpp	/^	int to,val,next;$/;"	m	struct:node	file:
+to	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^	int to,next;$/;"	m	struct:node	file:
+to	.\Luogu\P3953 逛公园.cpp	/^	int to,next,v;$/;"	m	struct:node	file:
+to	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^	int to,next,val;$/;"	m	struct:ed	file:
+to	.\Luogu\P5022 旅行.cpp	/^	vector<int> to;$/;"	m	struct:node	file:
+tot	.\Luogu\P1250 种树.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P1346 电车.cpp	/^int tot;$/;"	v
+tot	.\Luogu\P1382 楼房.cpp	/^int tot=0;$/;"	v
+tot	.\Luogu\P1726 上白泽慧音.cpp	/^int head[5010],tot;$/;"	v
+tot	.\Luogu\P1993 小K的农场.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P3366 【模板】最小生成树.cpp	/^int tot;$/;"	v
+tot	.\Luogu\P3379 【模板】最近公共祖先（LCA）.cpp	/^int head[500010],tot;$/;"	v
+tot	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int n,m,q,tot;$/;"	v
+tot	.\Luogu\P3953 逛公园.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^int head[100010],tot;$/;"	v
+tot	.\Luogu\P5022 旅行.cpp	/^int tot;$/;"	v
+tree	.\Luogu\P3372 【模板】线段树 1.cpp	/^node tree[400010];$/;"	v
+tree	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^}tree[maxn<<5];$/;"	v	typeref:struct:node
+u	.\Luogu\P3953 逛公园.cpp	/^int u[100010];$/;"	v
+u	.\Luogu\P5022 旅行.cpp	/^bool z,u;$/;"	v
+uni	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^void uni(int l,int r){$/;"	f
+up	.\Luogu\P3372 【模板】线段树 1.cpp	/^void up(Int k) {$/;"	f
+update	.\Luogu\P3834 【模板】可持久化线段树 1（主席树）.cpp	/^int update(int k,int l,int r,int v){$/;"	f
+v	.\Luogu\P1346 电车.cpp	/^	int v;$/;"	m	struct:node	file:
+v	.\Luogu\P1382 楼房.cpp	/^	int l,r,v;$/;"	m	struct:vsx	file:
+v	.\Luogu\P1382 楼房.cpp	/^	mutable int v;$/;"	m	struct:node	file:
+v	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^	int x,y,v;$/;"	m	struct:node	file:
+v	.\Luogu\P3953 逛公园.cpp	/^	int to,next,v;$/;"	m	struct:node	file:
+v	.\Luogu\P3953 逛公园.cpp	/^	int v;$/;"	m	struct:koishi	file:
+val	.\Luogu\P1250 种树.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+val	.\Luogu\P1993 小K的农场.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+val	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int val[100010],to[100010],nxt[100010];$/;"	v
+val	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int val[200010],to[200010],nxt[200010];$/;"	v
+val	.\Luogu\P3366 【模板】最小生成树.cpp	/^	int to,val,next;$/;"	m	struct:node	file:
+val	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^	int to,next,val;$/;"	m	struct:ed	file:
+vec	.\Luogu\P1312 Mayan游戏.cpp	/^vector<step>vec;$/;"	v
+vec	.\Luogu\P5022 旅行.cpp	/^vector<pair<int,int> >vec;$/;"	v
+vis	.\Luogu\P1250 种树.cpp	/^bool vis[100010];$/;"	v
+vis	.\Luogu\P1993 小K的农场.cpp	/^bool vis[100010];$/;"	v
+vis	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int vis[10100];$/;"	v
+vis	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int vis[101000];$/;"	v
+vis	.\Luogu\P3366 【模板】最小生成树.cpp	/^bool vis[5010]; $/;"	v
+vis	.\Luogu\P4779 【模板】单源最短路径（标准版）.cpp	/^bool vis[100010];$/;"	v
+vis	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^bool vis[1010][1010][3];$/;"	v
+vsx	.\Luogu\P1382 楼房.cpp	/^struct vsx{$/;"	s	file:
+vx	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^vector<pair<short,short> >vx;$/;"	v
+w	.\Luogu\P2294 [HNOI2005]狡猾的商人.cpp	/^int n,m,w;$/;"	v
+w	.\Luogu\P3275 [SCOI2011]糖果.cpp	/^int n,m,w;$/;"	v
+x	.\Luogu\P1312 Mayan游戏.cpp	/^	int x,y,z;$/;"	m	struct:step	file:
+x	.\Luogu\P1346 电车.cpp	/^	int x,y;$/;"	m	struct:ns	file:
+x	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^	int x,y,v;$/;"	m	struct:node	file:
+x	.\Luogu\P1801 黑匣子_NOI导刊2010提高（06）.cpp	/^int x[200010]; $/;"	v
+x	.\Luogu\P3958 奶酪.cpp	/^double x[1010];$/;"	v
+x	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^	short x,y;$/;"	m	struct:node	file:
+x	.\Luogu\P5412 [YNOI2019]排队.cpp	/^double x[10010],y[10010]; $/;"	v
+xijian	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^int xijian[3]; $/;"	v
+y	.\Luogu\P1312 Mayan游戏.cpp	/^	int x,y,z;$/;"	m	struct:step	file:
+y	.\Luogu\P1346 电车.cpp	/^	int x,y;$/;"	m	struct:ns	file:
+y	.\Luogu\P1546 最短网络 Agri-Net.cpp	/^	int x,y,v;$/;"	m	struct:node	file:
+y	.\Luogu\P3958 奶酪.cpp	/^double y[1010];$/;"	v
+y	.\Luogu\P4872 Oier们的东方梦(dream).cpp	/^	short x,y;$/;"	m	struct:node	file:
+y	.\Luogu\P5412 [YNOI2019]排队.cpp	/^double x[10010],y[10010]; $/;"	v
+z	.\Luogu\P1312 Mayan游戏.cpp	/^	int x,y,z;$/;"	m	struct:step	file:
+z	.\Luogu\P3958 奶酪.cpp	/^double z[1010];$/;"	v
+z	.\Luogu\P5022 旅行.cpp	/^bool z,u;$/;"	v

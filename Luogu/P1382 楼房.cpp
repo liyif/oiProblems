@@ -75,7 +75,7 @@ int main(){
 		if(i->v==j->v){
 			int l=j->l,r=i->r,v=i->v;
 			odt.erase(j,(++i)--);
-			odt.insert(node(l,r,v));
+			eodt.insert(node(l,r,v));
 		}
 	}
 	//cerr<<endl;
